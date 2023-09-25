@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Haeun Noh
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00blowup&show_icons=true&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00blowup&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=00blowup)](https://solved.ac/00blowup)
