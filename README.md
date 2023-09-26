@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=655D80&height=250&section=header&text=Haeun&fontColor=000000&fontSize=60&fontAlign=20&fontAlignY=40)
-<br><br><br><br>
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00blowup&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=00blowup)](https://solved.ac/00blowup)
